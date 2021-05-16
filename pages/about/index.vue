@@ -21,4 +21,9 @@ export default {
 p {
   width: 60%;
 }
+@media screen and (max-width: 500px) {
+  p {
+    width: 90%;
+  }
+}
 </style>

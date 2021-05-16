@@ -104,6 +104,11 @@ export default {
   width: 100%;
   min-width: 100%;
 }
+@media screen and (max-width: 500px) {
+  .image-gallery {
+    grid-template-columns: 1fr 1fr;
+  }
+}
 .image-gallery > div {
   aspect-ratio: 1;
   position: relative;

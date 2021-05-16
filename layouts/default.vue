@@ -26,6 +26,7 @@ header nav {
   flex-direction: row;
   width: 400px;
   justify-content: space-between;
+  max-width: 90%;
 }
 header nav > * {
   color: white;
