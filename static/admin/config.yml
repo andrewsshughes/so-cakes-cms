@@ -47,3 +47,14 @@ collections:
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Category", name: "category", widget: "list"}
+  - label: 'Pricing'
+    name: 'pricing'
+    files: 
+      - label: 'Contents'
+        name: 'contents'
+        file: 'content/pricing/contents.md'
+        format: 'md'
+        editor:
+          preview: false
+        fields:
+          - { label: "Title", name: "title", widget: "Text"}
