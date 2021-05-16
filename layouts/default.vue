@@ -8,7 +8,6 @@
           <NuxtLink to="/pricing">Pricing</NuxtLink>
           <NuxtLink to="/about">About</NuxtLink>
           <NuxtLink to="/contact">Contact</NuxtLink>
-          <span>Order</span>
         </nav>
       </div>
     </header>
