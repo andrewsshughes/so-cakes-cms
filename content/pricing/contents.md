@@ -6,4 +6,6 @@ content: Pricing Given as an Example, please request a quote to get a more
 prices:
   - name: "Wedding Cake - 2 Tiers "
     price: "159"
+  - name: 6 inch topped drip cake
+    price: £65
 ---
