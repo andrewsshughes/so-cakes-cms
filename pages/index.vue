@@ -85,14 +85,16 @@ export default {
 <style scoped>
 .image-filter {
   font-size: 18px;
-  margin-top: 24px;
+  margin-top: 12px;
   margin-bottom: 24px;
   display: flex;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 .image-filter > span {
   margin-right: 30px;
   cursor: pointer;
+  margin-top: 12px;
 }
 .selected {
   color: #ff66c4;

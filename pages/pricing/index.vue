@@ -42,7 +42,7 @@ export default {
   margin-left: 20px;
 }
 .prices > div {
-  height: 50px;
+  min-height: 50px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -51,6 +51,7 @@ export default {
   width: 100%;
   box-sizing: border-box;
   font-size: 24px;
+  flex-wrap: wrap;
 }
 .prices > div:nth-child(2n) {
   background: rgba(255, 255, 255, 0.33);
