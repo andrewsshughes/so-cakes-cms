@@ -33,8 +33,8 @@ header nav > * {
   font-size: 18px;
 }
 header img {
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   margin-bottom: 30px;
 }
 .header-border {
