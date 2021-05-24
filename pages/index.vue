@@ -141,6 +141,10 @@ export default {
   opacity: 0;
   transition: 250ms ease-in-out;
 }
+.image-gallery > div > .details > p {
+  width: 90%;
+  margin-left: 5%;
+}
 .image-gallery > div.active > .details {
   opacity: 1;
 }
