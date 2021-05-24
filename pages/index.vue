@@ -2,17 +2,20 @@
   <div class="container page">
     <h1>Our Past Work</h1>
     <div class="image-filter">
-      <span :class="{ selected: filterIsSelected('birthday') }" @click.stop.prevent="toggleFilter('birthday')"
-        >Birthday</span
+      <span :class="{ selected: filterIsSelected('gaming') }" @click.stop.prevent="toggleFilter('gaming')">Gaming</span>
+      <span :class="{ selected: filterIsSelected('baby') }" @click.stop.prevent="toggleFilter('baby')">Baby</span>
+      <span
+        :class="{ selected: filterIsSelected('pretty and pink') }"
+        @click.stop.prevent="toggleFilter('pretty and pink')"
+        >Pretty and Pink</span
       >
-      <span :class="{ selected: filterIsSelected('wedding') }" @click.stop.prevent="toggleFilter('wedding')"
-        >Wedding</span
+      <span
+        :class="{ selected: filterIsSelected('themed drip cakes') }"
+        @click.stop.prevent="toggleFilter('themed drip cakes')"
+        >Themed Drip Cakes</span
       >
-      <span :class="{ selected: filterIsSelected('new born') }" @click.stop.prevent="toggleFilter('new born')"
-        >New Born</span
-      >
-      <span :class="{ selected: filterIsSelected('misc') }" @click.stop.prevent="toggleFilter('misc')"
-        >Miscellaneous</span
+      <span :class="{ selected: filterIsSelected('children') }" @click.stop.prevent="toggleFilter('children')"
+        >Children</span
       >
     </div>
     <div class="image-gallery">
@@ -25,7 +28,7 @@
         <img :src="cake.image" />
         <div class="details">
           <p>{{ cake.description }}</p>
-          <div class="order-like">Order a cake like this</div>
+          <!--<div class="order-like">Order a cake like this</div>-->
         </div>
       </div>
     </div>
@@ -119,6 +122,7 @@ export default {
 }
 .image-gallery > div.active {
   grid-column: span 2;
+  grid-row: span 2;
 }
 .image-gallery > div > img {
   width: 100%;
