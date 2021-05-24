@@ -108,6 +108,7 @@ export default {
   grid-gap: 30px;
   width: 100%;
   min-width: 100%;
+  grid-auto-flow: dense;
 }
 @media screen and (max-width: 500px) {
   .image-gallery {
