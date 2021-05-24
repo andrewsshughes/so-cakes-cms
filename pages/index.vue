@@ -54,7 +54,7 @@ export default {
       } else {
         this.filter.push(cat)
       }
-      if (this.filter.length == 4) {
+      if (this.filter.length == 5) {
         this.filter = []
       }
     },
