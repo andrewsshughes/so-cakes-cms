@@ -1,17 +1,14 @@
 ---
-title: About
+title: A Little bit about us.
 content: >-
-  Tart chocolate tiramisu brownie cookie chocolate tootsie roll bonbon gummies.
-  Chocolate cake pudding caramels sweet marzipan dessert. Lemon drops sugar plum
-  ice cream sesame snaps halvah chupa chups sugar plum apple pie. Jelly-o oat
-  cake muffin toffee marzipan macaroon. Tiramisu pastry cookie candy canes.
-  Croissant topping cake dragée cake jelly liquorice lemon drops cotton candy.
-  Icing macaroon cheesecake muffin sweet biscuit. Sweet biscuit chocolate
-  brownie chocolate jujubes.
+  We offer a professional, friendly service, Providing high quality bespoke
+  celebration cakes and home bakes for all occasions.
 
+  From cupcakes to wedding cakes and everything in between. Our aim is to bake, make and create your dream cake whatever it may be.
 
-  Halvah carrot cake topping pudding. Tootsie roll muffin bonbon bonbon gummies cheesecake jelly ice cream cake. Tiramisu bonbon sweet fruitcake gummi bears bear claw jelly-o. Muffin ice cream gummi bears cookie. Bear claw lollipop jujubes lollipop sweet sugar plum. Chocolate chocolate cake lollipop marzipan sesame snaps.
+  All our products are freshly baked and made to order from our professional kitchen located close to the town centre and Mersey tunnels.
 
+  We create our celebration cake designs with the intention of no 2 cakes leaving us ever being the same. With 12 years of developed skills and techniques, we like our creations to always have that wow factor!
 
-  Sweet roll dessert gingerbread dragée tootsie roll marshmallow cake. Chupa chups toffee sweet fruitcake. Soufflé oat cake cookie cheesecake. Cupcake marshmallow lollipop apple pie. Wafer cupcake macaroon marshmallow candy. Jelly topping sweet roll tart topping. Gummies bear claw dragée oat cake croissant liquorice pie jelly-o. Pastry dessert chocolate cake brownie cake muffin jelly-o sweet roll. Pastry sweet dessert ice cream. Sweet roll chocolate cake pastry pastry tootsie roll jelly beans.
+  Our home bakes are perfect for the in work tea break, an after school treat and look amazing on a buffet desert table.
 ---
