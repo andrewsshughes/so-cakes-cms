@@ -5,7 +5,7 @@
         <img src="/img/logo.png" />
         <nav>
           <NuxtLink to="/">Cakes</NuxtLink>
-          <NuxtLink to="/pricing">Pricing</NuxtLink>
+          <!-- <NuxtLink to="/pricing">Pricing</NuxtLink> -->
           <NuxtLink to="/about">About</NuxtLink>
           <NuxtLink to="/contact">Contact</NuxtLink>
         </nav>
