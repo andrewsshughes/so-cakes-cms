@@ -4,6 +4,9 @@
     <div class="image-filter">
       <span :class="{ selected: filterIsSelected('gaming') }" @click.stop.prevent="toggleFilter('gaming')">Gaming</span>
       <span :class="{ selected: filterIsSelected('baby') }" @click.stop.prevent="toggleFilter('baby')">Baby</span>
+      <span :class="{ selected: filterIsSelected('wedding') }" @click.stop.prevent="toggleFilter('wedding')"
+        >Wedding</span
+      >
       <span
         :class="{ selected: filterIsSelected('pretty and pink') }"
         @click.stop.prevent="toggleFilter('pretty and pink')"
@@ -73,7 +76,7 @@ export default {
         return this.cakes.filter((c) => {
           let found = false
           c.category.forEach((cat) => {
-            if (this.filter.indexOf(cat) > -1) {
+            if (this.filter.indexOf(cat.toLowerCase()) > -1) {
               found = true
             }
           })
